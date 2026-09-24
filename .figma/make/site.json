@@ -1,0 +1,10 @@
+{
+  "description": "Create memorable birthday surprises with an interactive app that combines heartfelt messages, fun quizzes, and engaging mini-games for a personalized celebration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
