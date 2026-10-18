@@ -11,7 +11,7 @@ Build Tool: Vite (for rapid hot-module replacement and optimized builds)
 
 Environment: Node.js
 
-Prototyping & UI: Figma AI code generation
+Prototyping & UI: Figma code generation
 
 
 ✨ Key Features
